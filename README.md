@@ -23,8 +23,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/haneen-elfwal"><img src="https://img.shields.io/badge/-Haneen%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Haneen_Ali_Elfawal"><img src="https://img.shields.io/badge/-Haneen%20Ali-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:haneenelfwal03@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
 
 
 
