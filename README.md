@@ -12,9 +12,10 @@
 </p>
 
 
-- 👩‍💻 I’m Student at FCAI in DU
+- 👩‍💻 I’m Student at FCAI in DU.
+- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m currently learning Unity for developing games.I am just beginner in this field ,but I love it.
-- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills
+- 🌱 I’m also learning .NET and have experience with PHP and Laravel.
 - 💬 Ask me about my experience with C#, ASP.NET Core, SQL Server,PHP,Unity,My SQL or anything related to my field.
 
 
@@ -30,9 +31,11 @@
 ### 🛠️ &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
