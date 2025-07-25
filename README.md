@@ -14,8 +14,8 @@
 
 - 👩‍💻 I’m Student at FCAI in DU
 - 🌱 I’m currently learning Unity for developing games.I am just beginner in this field ,but I love it.
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills
-- 💬 Ask me about my experience with C#, ASP.NET Core, SQL Server,PHP ,Unity My SQL or anything related to my field.
+- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills
+- 💬 Ask me about my experience with C#, ASP.NET Core, SQL Server,PHP,Unity,My SQL or anything related to my field.
 
 
 
